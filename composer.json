@@ -25,7 +25,7 @@
     "license": "proprietary",
     "autoload": {
         "psr-4": {
-            "Bws\\QueueSystem\\": "app"
+            "Bws\\QueueSystem\\": "src"
         }
     },
 
